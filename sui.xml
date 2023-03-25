@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T02:36:14.645Z" agent="5.0 (Macintosh)" etag="_F_uH_uYqXFr_US_dhHp" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T02:36:42.120Z" agent="5.0 (Macintosh)" etag="9_p_2KZSS6DAl7hu1uCq" version="21.0.10" type="github">
   <diagram name="template" id="tZBciMG-JsS0YxZC5SNw">
     <mxGraphModel dx="1034" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="gvpVkrH7f8oCv1Axq45l-17" value="&lt;div&gt;https://www.github.com/wonderfan&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="gvpVkrH7f8oCv1Axq45l-15">
           <mxGeometry x="130" y="60" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gvpVkrH7f8oCv1Axq45l-19" value="A simple dark alert!" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#C6C8CA;strokeWidth=1;fillColor=#FFFFFF;fontColor=#666666;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=18;" vertex="1" parent="gvpVkrH7f8oCv1Axq45l-15">
+        <mxCell id="gvpVkrH7f8oCv1Axq45l-19" value="my text" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#C6C8CA;strokeWidth=1;fillColor=#FFFFFF;fontColor=#666666;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=18;" vertex="1" parent="gvpVkrH7f8oCv1Axq45l-15">
           <mxGeometry y="100" width="800" height="420" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-25T02:36:42.120Z" agent="5.0 (Macintosh)" etag="9_p_2KZSS6DAl7hu1uCq" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-25T02:39:57.161Z" agent="5.0 (Macintosh)" etag="nm3Ya4Llz0iczM0c9ctR" version="21.0.10" type="github" pages="2">
   <diagram name="template" id="tZBciMG-JsS0YxZC5SNw">
     <mxGraphModel dx="1034" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,20 @@
         </mxCell>
         <mxCell id="gvpVkrH7f8oCv1Axq45l-19" value="my text" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#C6C8CA;strokeWidth=1;fillColor=#FFFFFF;fontColor=#666666;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=18;" vertex="1" parent="gvpVkrH7f8oCv1Axq45l-15">
           <mxGeometry y="100" width="800" height="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zJ3XathgqfEW09mMQF2O" name="layout">
+    <mxGraphModel dx="1034" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cI6dOY3IMIPv9JxHigwF-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Primary card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0085FC;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#0085FC;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="720" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cI6dOY3IMIPv9JxHigwF-2" value="Header" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#0085FC;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;" vertex="1" parent="cI6dOY3IMIPv9JxHigwF-1">
+          <mxGeometry width="720" height="50" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
